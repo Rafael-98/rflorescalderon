@@ -26,12 +26,13 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    display: inline;
     font-size: 2.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
   
 }
 img {
-
+    display: inline;
     max-width: 40%;
     max-height: 40%;
 }
@@ -39,6 +40,7 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    display: inline;
 }
 footer {
     border-top: 1px solid #d5d5d5;
