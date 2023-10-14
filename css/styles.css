@@ -25,6 +25,10 @@ h1 {
     display:inline-block;
     vertical-align:left;
 }
+img {
+    display:inline-block;
+    vertical-align:left;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
